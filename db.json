@@ -1,33 +1,6 @@
 {
-	"merchants": [
-		{
-			"merchantId": "liffey-1",
-			"name": "Liffey Irish Pub",
-			"address": {
-					"id": 123,
-					"street": "via non saprei",
-					"cap": "82100",
-					"city": "Benevento",
-					"country": "Italy",
-					"latitude": "41.131984",
-					"longitude": "14.778433"
-			},
-			"avatar": "https://media-cdn.tripadvisor.com/media/photo-s/0d/21/bb/2d/liffey-irish-pub-benevento.jpg"
-		},
-		{
-			"merchantId": "Orazio-1",
-			"name": "Taverna di Orazio",
-			"address": {
-					"id": 124,
-					"street": "via taverna",
-					"cap": "82100",
-					"city": "BN",
-					"country": "IT",
-					"latitude": "41.132782",
-					"longitude": "14.779875"
-			},
-			"avatar": "https://media-cdn.tripadvisor.com/media/photo-s/0a/94/9d/6e/le-nostre-pizze.jpg"
-		}
+	"nodes" : [
+		{"id":"1","name":"pippo","address":"via san pasquale"}
 	]
 	
 }
